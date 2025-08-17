@@ -1,0 +1,1 @@
+This folder contains the projects mentioned in Foundry course offered by Cyfrin Updraft.
