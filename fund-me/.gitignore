@@ -12,3 +12,8 @@ docs/
 
 # Dotenv file
 .env
+
+braodcast/
+lib/
+
+.DS_Store
